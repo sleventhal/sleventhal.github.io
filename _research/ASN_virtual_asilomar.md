@@ -5,7 +5,7 @@ collection: research
 type: "Talk"
 permalink: /research/ASN_virtual_asilomar
 venue: "American Society of Naturalists Virtual Asilomar"
-date: 2020-Dec
+date: 2020-12-22
 location: "Online"
 ---
 Since Dolph Schluter's landmark paper on structures of trait variation and its relationship to morphological distance between closely related species, 
