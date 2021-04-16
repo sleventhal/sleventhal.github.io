@@ -2,7 +2,7 @@
 title: "AWG Laramide Chapter Board"
 collection: outreach
 type: "Outreach Officer"
-permalink: /teaching/AWG_leadership
+permalink: /outreach/AWG_leadership
 venue: "AWG Laramimde Chapter"
 location: "Boulder, CO"
 ---
