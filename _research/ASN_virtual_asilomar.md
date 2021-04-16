@@ -1,8 +1,8 @@
 ---
 title: "Trait Heredity as a predictor of morphological distance between closely
 related species"
-#collection: research
-#type: ""
+collection: research
+type: "Talk"
 permalink: /research/ASN_virtual_asilomar
 venue: "American Society of Naturalists Virtual Asilomar"
 date: 2020-Dec
