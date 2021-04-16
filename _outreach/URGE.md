@@ -4,7 +4,6 @@ collection: outreach
 type: "Orthoclase pod leader"
 permalink: /outreach/URGE
 venue: "Unlearning Racism in the Geosciences (URGE)"
-date: 2021
 location: "Boulder, CO"
 ---
 
