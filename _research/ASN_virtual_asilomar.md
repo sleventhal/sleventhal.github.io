@@ -15,3 +15,5 @@ Medians of member-level trait values in colonies appear to be heritable between 
 are most heritable correspond to trait values that are the most divergent between the two species. I propose that the degree of heredity of trait 
 values is predictive of morphological distance in closely related taxa, a corollary to work on phenotypic variance and its relationship to evolutionary 
 divergence.
+
+Watch the talk here: https://www.youtube.com/watch?v=Zf6xeURkY4c&ab_channel=ASNAmNat
