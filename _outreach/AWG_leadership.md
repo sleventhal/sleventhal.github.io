@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "AWG Laramide Chapter Board"
 collection: outreach
 type: "Outreach Officer"
 permalink: /teaching/AWG_leadership
