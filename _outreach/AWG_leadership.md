@@ -4,7 +4,7 @@ collection: outreach
 type: "Outreach Officer"
 permalink: /teaching/AWG_leadership
 venue: "AWG Laramimde Chapter"
-date: 2014-01-01
+date: 2021-01-01
 location: "Boulder, CO"
 ---
 
