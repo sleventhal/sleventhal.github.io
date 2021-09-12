@@ -1,5 +1,5 @@
 ---
-title: "Evolvable Heredity and Morphological Differentiation in Cheilostome Bryozoans"
+title: "Evolvable Heredity and Morphological Differentiation in Cheilostome Bryozoans, Rocky Mountain Geobiology Symposium 2021"
 collection: research
 type: "Talk"
 permalink: /research/RMGS
