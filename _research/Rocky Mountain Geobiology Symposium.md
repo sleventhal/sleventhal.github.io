@@ -1,3 +1,4 @@
+---
 title: "Evolvable Heredity and Morphological Differentiation in Cheilostome Bryozoans"
 collection: research
 type: "Talk"
@@ -5,6 +6,7 @@ permalink: /research/RMGS
 venue: "Rocky Mountain Geobiology Symposium"
 date: 2021-9-11
 location: "Colorado School of Mines, Golden, Colorado"
+---
 
 Polymorphism, or variation in body type, is a common feature of Cheilostome bryozoans, occurring in several independent evolutionary lineages. 
 Bryozoan polymorphism is often compared to the caste system in ants, where heterochrony allows for different castes in a colony to occupy 
