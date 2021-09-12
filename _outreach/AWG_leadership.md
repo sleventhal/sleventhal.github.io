@@ -1,5 +1,5 @@
 ---
-title: "AWG Laramide Chapter Board"
+title: "Association for Women Geoscienstists (AWG) Laramide Chapter Board"
 collection: outreach
 type: "Outreach Officer"
 permalink: /outreach/AWG_leadership
