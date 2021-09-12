@@ -3,7 +3,7 @@ title: "Evolvable Heredity and Morphological Differentiation in Cheilostome Bryo
 collection: research
 type: "Talk"
 permalink: /research/RMGS
-venue: "Rocky Mountain Geobiology Symposium"
+venue: "Rocky Mountain Geobiology Symposium 2021"
 date: 2021-9-11
 location: "Colorado School of Mines, Golden, Colorado"
 ---
