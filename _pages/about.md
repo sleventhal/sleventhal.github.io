@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Sarah Leventhal, a PhD candidate at the University of Colorado Boulder. I am interested in the evolution of modular animals, particularly bryozoans.
+Hi! I am Sarah Leventhal, a PhD candidate at the University of Colorado Boulder. I am an invertebrate paleontologist interested in the evolution of modular animals, particularly bryozoans!
