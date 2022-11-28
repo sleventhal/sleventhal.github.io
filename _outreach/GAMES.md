@@ -11,6 +11,6 @@ I serve as an organizer and instructor for the CU Museum's Girls and the Museum 
 girls in primary school to foster an appreciation for science. We teach students about ongoing research at the University museum and give
 them the opportunity to take part in hands-on research-based activities.
 
-<img "https://user-images.githubusercontent.com/79329199/204332469-46931bc1-6d6c-4631-80da-30633d982aab.jpg"  width="400" 
+<img "https://user-images.githubusercontent.com/79329199/204332469-46931bc1-6d6c-4631-80da-30633d982aab.jpg" width="400"
      height="500" />
 Teaching students about some of my favorite invertebrate fossils in the CU Museum of Natural History!
