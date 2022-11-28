@@ -14,6 +14,6 @@ Divergent body types, termed avicularia, first appeared in colonies in the early
 Over the course of the Cretaceous,  <i>Wilbertopora</i> diversified into 27 species, spanning the early Albian through Maastrichtian stages. 
 In this study, we quantify autozooid and avicularia shape and size to evaluate how the morphological disparity of zooid types in 
 colonies changes over the course of  <i>Wilbertopora</i> diversification. We find that taxonomic diversity and morphological disparity are 
-largely decoupled, with disparity outpacing diversity for much of Wilbertopora’s evolutionary history. Increases in disparity are 
-primarily driven by evolution of avicularian morphology, indicating that Wilbertopora’s avicularia may have served an array of purposes 
+largely decoupled, with disparity outpacing diversity for much of  <i>Wilbertopora</i>’s evolutionary history. Increases in disparity are 
+primarily driven by evolution of avicularian morphology, indicating that  <i>Wilbertopora</i>’s avicularia may have served an array of purposes 
 in different lineages.
