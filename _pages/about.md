@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Paleobiology of colonial animals"
-excerpt: "Paleobiology of colonial animals"
+excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
