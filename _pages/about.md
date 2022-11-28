@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Paleobiology of colonial animals"
-excerpt: "Welcome!"
+title: "Bryozoan evolution"
+excerpt: "Bryozoan evolution"
 author_profile: true
 redirect_from: 
   - /about/
