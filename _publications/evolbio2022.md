@@ -5,7 +5,7 @@ permalink: /publications/evolbio2022
 date: 2022
 venue: 'Evolutionary Biology'
 paperurl: 'https://link.springer.com/article/10.1007/s11692-022-09588-8'
-citation: 'Leventhal, S., Jamison-Todd, S. & Simpson, C. (2022). Aggregate Trait Evolvability and Macroevolution in Two Sister Species of the Bryozoan <i>Stylopoma</i>. <i>Evol Biol</i>. https://doi.org/10.1007/s11692-022-09588-8'
+citation: 'Leventhal, S., Jamison-Todd, S. & Simpson, C. (2022). Aggregate Trait Evolvability and Macroevolution in Two Sister Species of the Bryozoan Stylopoma. <i>Evol Biol</i>. https://doi.org/10.1007/s11692-022-09588-8'
 ---
 Abstract: The study of trait evolution in modular animals is more complicated than that in solitary animals, 
 because a single genotype of a modular colony can express an enormous range of phenotypic variation. 
