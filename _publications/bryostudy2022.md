@@ -2,7 +2,7 @@
 title: 'Early proliferation of avicularia in the Cretaceous cheilostome bryozoan <i>Wilbertopora</i>: a diversification event guided by ecological exploration'
 collection: publications
 permalink: /publications/bryostudy2022
-date:
+date: 2022/09/24
 venue: 'Bryozoan Studies 2022'
 #paperurl: 'https://link.springer.com/article/10.1007/s11692-022-09588-8'
 citation: 'Leventhal, S.E., Stowe, K., and Simpson, C. Early proliferation of avicularia in the Cretaceous cheilostome bryozoan <i>Wilbertopora</i>: a diversification event guided by ecological exploration. In: M.M. Key, Jr., J.S. Porter, and P.N. Wyse Jackson (eds). <i>Bryozoan Studies 2022</i>. Rotterdam: Balkema (in press).'
