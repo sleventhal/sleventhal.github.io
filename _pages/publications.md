@@ -1,4 +1,4 @@
-#---
+<!--- This is an HTML comment in Markdown 
 #layout: archive
 #title: "Publications"
 #permalink: /publications/
@@ -13,4 +13,4 @@
 
 #{% for post in site.publications reversed %}
  # {% include archive-single.html %}
-#{% endfor %}
+#{% endfor %} -->
