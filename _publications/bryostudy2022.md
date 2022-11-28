@@ -1,7 +1,7 @@
 ---
 title: 'Early proliferation of avicularia in the Cretaceous cheilostome bryozoan <i>Wilbertopora</i>: a diversification event guided by ecological exploration'
 collection: publications
-permalink: /publications/evolbio2022
+permalink: /publications/bryostudy2022
 date: 2022-11-27
 venue: 'Bryozoan Studies 2022'
 #paperurl: 'https://link.springer.com/article/10.1007/s11692-022-09588-8'
