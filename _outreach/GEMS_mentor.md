@@ -2,7 +2,7 @@
 title: "Geosciences Education & Mentorship Support (GEMS) Program"
 collection: outreach
 type: "Mentor"
-permalink: /outreach/AWG_leadership
+permalink: /outreach/GEMS_mentor
 venue: "GEMS program"
 location: "Online"
 ---
