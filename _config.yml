@@ -86,7 +86,7 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=bB8q4GgAAAAJ&hl=en&oi=ao"
   email            : "sarah.leventhal@colorado.edu"
-  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #researchgate     : "https://www.researchgate.net/profile/Sarah-Leventhal"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,7 +101,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
  # linkedin         :
- # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6537-1553"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -214,14 +214,14 @@ defaults:
       share: true
       comments: true
   # _publications
- # - scope:
-  #    path: ""
-   #   type: publications
-   # values:
-    #  layout: single
-     # author_profile: true
-     # share: true
-     # comments: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
