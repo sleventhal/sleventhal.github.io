@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Invertebrate evolution"
-excerpt: "About me"
+excerpt: "Invertebrate evolution"
 author_profile: true
 redirect_from: 
   - /about/
