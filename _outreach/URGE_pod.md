@@ -2,7 +2,7 @@
 title: "Unlearning Racism in the Geosciences (URGE)"
 collection: outreach
 type: "Orthoclase pod leader"
-permalink: /outreach/URGE
+permalink: /outreach/URGE_pod
 venue: "Unlearning Racism in the Geosciences (URGE)"
 location: "Boulder, CO"
 ---
