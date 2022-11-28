@@ -12,7 +12,7 @@ Hi! I am Sarah Leventhal, a PhD candidate at the University of Colorado Boulder 
 
 Below are some of the big questions I'm interested in answering.
 
-# How do colony-level traits evolve?
+## How do colony-level traits evolve?
 
 Bryozoans grow in modular colonies, meaning that every colony member ("zooid") is genetically identical. However, colonies express a wide range of phenotypic variation. I want to understand the evolution of colony-level traits, both in emergent features like division of labor (more on that below) and aggregate traits like phenotypic distributions of zooids.
 
@@ -20,6 +20,6 @@ Thus far in my research, I have found that aggregate traits, specifically the ce
 
 In the future, I want to extend my study of aggregate traits to include traits of zooids that are non-feeding (meaning they serve other roles in the colony!). Additionally, I want to use fossils to see how aggregate traits behave on longer macroevolutionary timescales.
 
-# How does division of labor evolve?
+## How does division of labor evolve?
 
 Some of the most exciting features of colonial animals are the divisions of labor found in colonies. Bryozoans exhibit this feature, sure, but so do many other colonial animals (think wasps, bees, ants, and siphonophores). Due to bryozoans' high-resolution fossil record, it is possible to reconstruct the evolutionary morphology of divergent body types in colonies. Such a reconstruction makes it possible to understand the evolutionary transitions leading up to complex differentiation in colonies, and, ultimately, will make it possible to understand how division of labor evolves.
