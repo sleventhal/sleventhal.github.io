@@ -1,0 +1,39 @@
+---
+#title: "Colonial animals evolve their phenotypic distributions"
+#collection: publications
+#permalink: /publication/Paper1_Sci_Adv
+#excerpt: 'This paper is about the evolution of phenotypes across generations of colonies in bryozoans.'
+#date: 2021
+#venue: 'Science Advances'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+#This paper is about the number 1. The number 2 is left for future work.
+
+#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+
+---
+title: "Aggregate Trait Evolvability and Macroevolution in Two Sister Species of the Bryozoan <i>Stylopoma</i>"
+collection: research
+type: "publication"
+permalink: /research/ASN_virtual_asilomar
+venue: "Evolutionary Biology"
+citation: "Leventhal, S., Jamison-Todd, S. & Simpson, C. Aggregate Trait Evolvability and Macroevolution 
+in Two Sister Species of the Bryozoan Stylopoma. Evol Biol (2022). https://doi.org/10.1007/s11692-022-09588-8"
+---
+Abstract: The study of trait evolution in modular animals is more complicated than that in solitary animals, 
+because a single genotype of a modular colony can express an enormous range of phenotypic variation. 
+Furthermore, traits can occur either at the module level or at the colony level. However, it is unclear how 
+the traits at the colony level evolve. We test whether colony-level aggregate traits, defined as the summary 
+statistics of a phenotypic distribution, can evolve. To quantify this evolutionary potential, we use 
+parent-offspring pairs in two sister species of the bryozoan Stylopoma, grown and bred in a common garden breeding 
+experiment. We find that the medians of phenotypic distributions are evolvable between generations of colonies. 
+We also find that the structure of this evolutionary potential differs between these two species. The ancestral 
+species aligns more closely with the direction of species divergence than the descendent species. This result 
+indicates that aggregate trait evolvability can itself evolve.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zf6xeURkY4c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+		 </iframe>
