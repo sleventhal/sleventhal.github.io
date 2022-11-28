@@ -5,7 +5,7 @@ permalink: /publications/evolbio2022
 date: 2022-11-27
 venue: 'Bryozoan Studies 2022'
 #paperurl: 'https://link.springer.com/article/10.1007/s11692-022-09588-8'
-citation: 'Leventhal, S.E., Stowe, K.*, and Simpson, C. Early proliferation of avicularia in the Cretaceous cheilostome bryozoan <i>Wilbertopora</i>: a diversification event guided by ecological exploration. In: M.M. Key, Jr., J.S. Porter, and P.N. Wyse Jackson (eds). <i>Bryozoan Studies 2022</i>. Rotterdam: Balkema (in press).'
+citation: 'Leventhal, S.E., Stowe, K., and Simpson, C. Early proliferation of avicularia in the Cretaceous cheilostome bryozoan <i>Wilbertopora</i>: a diversification event guided by ecological exploration. In: M.M. Key, Jr., J.S. Porter, and P.N. Wyse Jackson (eds). <i>Bryozoan Studies 2022</i>. Rotterdam: Balkema (in press).'
 
 ---
 Cheilostome bryozoans are a diverse clade of colonial animals that first appeared during the Jurassic period.
