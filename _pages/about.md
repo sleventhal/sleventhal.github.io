@@ -20,8 +20,6 @@ Thus far in my research, I have found that aggregate traits, specifically the ce
 
 In the future, I want to extend my study of aggregate traits to include traits of zooids that are non-feeding (meaning they serve other roles in the colony!). Additionally, I want to use fossils to see how aggregate traits behave on longer macroevolutionary timescales.
 
-[fig1_distributions.pdf](https://github.com/sleventhal/sleventhal.github.io/files/10128046/fig1_distributions.pdf)
-
 
 ## How does division of labor evolve?
 
