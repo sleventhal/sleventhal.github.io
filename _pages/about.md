@@ -18,7 +18,7 @@ Bryozoans grow in modular colonies, meaning that every colony member ("zooid") i
 
 
 
-<img src="![fig1_distributions](https://user-images.githubusercontent.com/79329199/204932897-dd846344-f533-48d8-a709-44002808024d.jpg)" height=500 />
+<img src="https://user-images.githubusercontent.com/79329199/204932897-dd846344-f533-48d8-a709-44002808024d.jpg" height=400 />
 
 
 
