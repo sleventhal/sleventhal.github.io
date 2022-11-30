@@ -20,6 +20,12 @@ Thus far in my research, I have found that aggregate traits, specifically the ce
 
 In the future, I want to extend my study of aggregate traits to include traits of zooids that are non-feeding (meaning they serve other roles in the colony!). Additionally, I want to use fossils to see how aggregate traits behave on longer macroevolutionary timescales.
 
+[fig1_distributions.pdf](https://github.com/sleventhal/sleventhal.github.io/files/10128046/fig1_distributions.pdf)
+
+
 ## How does division of labor evolve?
 
 Some of the most exciting features of colonial animals are the divisions of labor found in colonies. Bryozoans exhibit this feature, sure, but so do many other colonial animals (think wasps, bees, ants, and siphonophores). Due to bryozoans' high-resolution fossil record, it is possible to reconstruct the evolutionary morphology of divergent body types in colonies. Such a reconstruction makes it possible to understand the evolutionary transitions leading up to complex differentiation in colonies, and, ultimately, will make it possible to understand how division of labor evolves.
+
+<img width="362" alt="Screen Shot 2022-11-30 at 6 29 36 PM" src="https://user-images.githubusercontent.com/79329199/204930140-cede2595-3eb3-4844-b95d-b9595acab680.png">
+
