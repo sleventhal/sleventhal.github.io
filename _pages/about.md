@@ -16,8 +16,9 @@ Below are some of the big questions I'm interested in answering.
 
 Bryozoans grow in modular colonies, meaning that every colony member ("zooid") is genetically identical. However, colonies express a wide range of phenotypic variation. I want to understand the evolution of colony-level traits, both in emergent features like division of labor (more on that below) and aggregate traits like phenotypic distributions of zooids.
 
-img<src="https://user-images.githubusercontent.com/79329199/204932674-82d1f022-f61f-4165-b98f-6d0d6c540b41.jpg", width=500>
 
+
+<img src="![fig1_distributions](https://user-images.githubusercontent.com/79329199/204932897-dd846344-f533-48d8-a709-44002808024d.jpg)" height=500 />
 
 
 
