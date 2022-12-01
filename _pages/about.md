@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bryozoan Evolution"
+title: "Evolution of colonial animals"
 excerpt: "Evolutionary transitions in colonial animals"
 author_profile: true
 redirect_from: 
