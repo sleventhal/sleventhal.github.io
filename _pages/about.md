@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Evolution of modular animals"
-excerpt: "Evolution of modular animals"
+title: "Bryozoan Evolution"
+excerpt: "Evolutionary transitions in colonial animals"
 author_profile: true
 redirect_from: 
   - /about/
