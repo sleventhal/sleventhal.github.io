@@ -1,10 +1,10 @@
 ---
-title: "Girls at the Museum Exploring Science (GAMES) organizer"
+title: "Girls at the Museum Exploring Science (GAMES)"
 collection: outreach
 type: "instructor and organizer"
 permalink: /outreach/GAMES_program
 venue: "University of Colorado Museum of Natural History"
-location: "Boulder, CO" 
+location: "Boulder, CO"
 ---
 
 I serve as an organizer and instructor for the CU Museum's Girls and the Museum Exploring Science (GAMES) program. This program encourages
