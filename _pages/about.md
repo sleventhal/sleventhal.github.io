@@ -51,3 +51,6 @@ Scientific literacy is remarkably low across the United States, despite the coun
 Since 2021, I have been working with the Girls at the Museum Exploring Science (<a href="https://www.colorado.edu/cumuseum/content/girls-museum-exploring-science-games-program"> GAMES </a>) program, based out of the University of Colorado's Museum of Natural History (CUMNH), to address this topic. GAMES is a program intended to encourage school-aged girls to see themselves as future professional scientists or citizen scientists. Through this program, students are able to participate in hands-on activities in museum-based disciplines, like paleontology or archeology. They are able to meet with faculty at the University of Colorado Boulder, and ask them questions about their work. This program is a decade old, so there is a wealth of data from anonymous surveys collected pre- and posts-program from years past. This provides indispensible insight into the impact that the program, and its different implementations, has on student attitudes towards science and scientists.
 
 Stay tuned for publication of the full study on the impacts this program has had on students, and the various novel content pieces that are currently in development!
+
+<img src="GAMESQ2_2017_2021.jpg" height=400 />
+GAMESQ2_2017_2021.jpg
