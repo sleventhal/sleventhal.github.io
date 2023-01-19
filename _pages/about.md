@@ -41,17 +41,8 @@ Here is an example of division of labor in a 100 million-year old colony! The ro
 
 Speaking more broadly, I want to understand how division of labor occurs as an evolutionary transition in all living systems.
 
----
-permalink: /
-title: "Informal Science education as science communication"
-excerpt: "Teaching students to love science"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
-## Informal education as science communication
+# Informal education as science communication
 
 Scientific literacy is remarkably low across the United States, despite the country's high level of educational attainment. While the causes of scientific illiteracy are mulitifaceted, part of this issue stems from a general public disinterest in science as a discipline. I am interested in understanding the role that informal science education programs may play in encouraging people, especially children, to view science as a discipline worthy of extracurricular interest.
 
