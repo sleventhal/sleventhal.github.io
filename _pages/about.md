@@ -10,6 +10,8 @@ redirect_from:
 
 Hi! I am Sarah Leventhal, a PhD candidate at the University of Colorado Boulder and a predoctoral fellow at the National Museum of Natural History. I am an invertebrate paleontologist interested in the evolution of colonial animals, particularly bryozoans! The robust fossil record of bryozoans makes them an excellent model system for the study of colony-level evolution. Furthermore, their calcified skeletons and clonal nature make them a great model system for the study of intracolonial variation on microevolutionary timescales.
 
+I also have a broad interest in the use of informal science education as a teaching tool for school-age students. Since I am based out of a university museum, I have had the opportunity to work with some amazing programs that aim to teach children to love science in a positive, relaxed environment! I think the disconnect between scientists and the broader public can be addressed by encouraging people to view science in a positive, empowering light.
+
 Below are some of the big topics I want to understand.
 
 ## Complex trait evolution
@@ -42,7 +44,7 @@ Here is an example of division of labor in a 100 million-year old colony! The ro
 Speaking more broadly, I want to understand how division of labor occurs as an evolutionary transition in all living systems.
 
 
-# Informal education as science communication
+## Informal education as science communication
 
 Scientific literacy is remarkably low across the United States, despite the country's high level of educational attainment. While the causes of scientific illiteracy are mulitifaceted, part of this issue stems from a general public disinterest in science as a discipline. I am interested in understanding the role that informal science education programs may play in encouraging people, especially children, to view science as a discipline worthy of extracurricular interest.
 
