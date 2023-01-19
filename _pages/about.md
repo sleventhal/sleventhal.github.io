@@ -52,6 +52,6 @@ Since 2021, I have been working with the Girls at the Museum Exploring Science (
 
 Stay tuned for publication of the full study on the impacts this program has had on students, and the various novel content pieces that are currently in development!
 
-<img src="https://user-images.githubusercontent.com/79329199/213570669-7fbc6a08-5b94-4b1e-8837-0d779bbefe15.jpg" height=400 />
+<img src="https://user-images.githubusercontent.com/79329199/213570669-7fbc6a08-5b94-4b1e-8837-0d779bbefe15.jpg" height=500 />
 
 
