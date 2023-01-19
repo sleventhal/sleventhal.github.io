@@ -40,3 +40,11 @@ Here is an example of division of labor in a 100 million-year old colony! The ro
 <img width="362" alt="Screen Shot 2022-11-30 at 6 29 36 PM" src="https://user-images.githubusercontent.com/79329199/204930140-cede2595-3eb3-4844-b95d-b9595acab680.png">
 
 Speaking more broadly, I want to understand how division of labor occurs as an evolutionary transition in all living systems.
+
+## Informal education as science communication
+
+Scientific literacy is remarkably low across the United States, despite the country's high level of educational attainment. While the causes of scientific illiteracy are mulitifaceted, part of this issue stems from a general public disinterest in science as a discipline. I am interested in understanding the role that informal science education programs may play in encouraging people, especially children, to view science as a discipline worthy of extracurricular interest.
+
+Since 2021, I have been working with the Girls at the Museum Exploring Science (<a href="https://www.colorado.edu/cumuseum/content/girls-museum-exploring-science-games-program"> GAMES </a>) program, based out of the University of Colorado's Museum of Natural History (CUMNH), to address this topic. GAMES is a program intended to encourage school-aged girls to see themselves as future professional scientists or citizen scientists. Through this program, students are able to participate in hands-on activities in museum-based disciplines, like paleontology or archeology. They are able to meet with faculty at the University of Colorado Boulder, and ask them questions about their work. This program is a decade old, so there is a wealth of data from anonymous surveys collected pre- and posts-program from years past. This provides indispensible insight into the impact that the program, and its different implementations, has on student attitudes towards science and scientists.
+
+Stay tuned for publication of the full study on the impacts this program has had on students, and the various novel content pieces that are currently in development!
