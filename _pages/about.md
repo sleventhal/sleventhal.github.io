@@ -12,7 +12,7 @@ Hi! I am Sarah Leventhal, a PhD candidate at the University of Colorado Boulder 
 
 I also have a broad interest in the use of informal science education as a teaching tool for school-age students. Since I am based out of a university museum, I have had the opportunity to work with some amazing programs that aim to teach children to love science in a positive, relaxed environment! I think the disconnect between scientists and the broader public can be addressed by encouraging people to view science in a positive, empowering light.
 
-Below are some of the big topics I want to understand.
+Below are some of my big topics of interest.
 
 ## Complex trait evolution
 
