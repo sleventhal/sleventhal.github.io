@@ -17,3 +17,6 @@ experiment. We find that the medians of phenotypic distributions are evolvable b
 We also find that the structure of this evolutionary potential differs between these two species. The ancestral 
 species aligns more closely with the direction of species divergence than the descendent species. This result 
 indicates that aggregate trait evolvability can itself evolve.
+
+[Leventhaletal2022.pdf](https://github.com/sleventhal/sleventhal.github.io/files/12477796/Leventhaletal2022.pdf)
+
