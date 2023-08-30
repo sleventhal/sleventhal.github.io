@@ -18,5 +18,5 @@ We also find that the structure of this evolutionary potential differs between t
 species aligns more closely with the direction of species divergence than the descendent species. This result 
 indicates that aggregate trait evolvability can itself evolve.
 
-[Leventhaletal2022.pdf](https://github.com/sleventhal/sleventhal.github.io/files/12477796/Leventhaletal2022.pdf)
+[Leventhal_et_al_2022_Stylopoma.pdf](https://github.com/sleventhal/sleventhal.github.io/files/12477796/Leventhaletal2022.pdf)
 
