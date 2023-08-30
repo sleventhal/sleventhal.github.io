@@ -17,3 +17,7 @@ colonies changes over the course of  <i>Wilbertopora</i> diversification. We fin
 largely decoupled, with disparity outpacing diversity for much of  <i>Wilbertopora</i>’s evolutionary history. Increases in disparity are 
 primarily driven by evolution of avicularian morphology, indicating that  <i>Wilbertopora</i>’s avicularia may have served an array of purposes 
 in different lineages.
+
+[Leventhal et al Typeset paper final.pdf](https://github.com/sleventhal/sleventhal.github.io/files/12477791/Leventhal.et.al.Typeset.paper.final.pdf)
+
+
