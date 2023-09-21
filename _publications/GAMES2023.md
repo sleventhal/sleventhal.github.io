@@ -1,5 +1,6 @@
 ---
-title: 'Early proliferation of avicularia in the Cretaceous cheilostome bryozoan <i>Wilbertopora</i>: a diversification event guided by ecological exploration'
+title: 'The impact of an informal education
+program on participant attitudes towards science across remote and in-person settings.'
 collection: publications
 permalink: /publications/GAMES2023
 date: 2023/09/21
