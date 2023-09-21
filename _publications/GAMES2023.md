@@ -30,6 +30,3 @@ participants located in rural areas and/or areas with less direct access to scie
 promising avenue for future informal science education opportunities.
 
 
-[Leventhal_et_al_bryozoan_studies_2022.pdf](https://github.com/sleventhal/sleventhal.github.io/files/12477791/Leventhal.et.al.Typeset.paper.final.pdf)
-
-
