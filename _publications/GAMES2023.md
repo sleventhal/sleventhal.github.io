@@ -4,7 +4,7 @@ program on participant attitudes towards science across remote and in-person set
 collection: publications
 permalink: /publications/GAMES2023
 date: 2023/09/21
-venue: 'GAMES study 2023'
+venue: 'Journal of STEM Outreach'
 #paperurl: 'https://link.springer.com/article/10.1007/s11692-022-09588-8'
 citation: 'Leventhal, S., Sullivan, G., Regan, K., and Li, J. The impact of an informal education
 program on participant attitudes towards science across remote and in-person settings.
