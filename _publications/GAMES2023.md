@@ -7,7 +7,7 @@ venue: 'GAMES study 2023'
 #paperurl: 'https://link.springer.com/article/10.1007/s11692-022-09588-8'
 citation: 'Leventhal, S., Sullivan, G., Regan, K., and Li, J. The impact of an informal education
 program on participant attitudes towards science across remote and in-person settings.
-Journal of STEM Outreach (in press).'
+<i> Journal of STEM Outreach</i> (in press).'
 ---
 The Girls at the Museum Exploring Science (GAMES) program, run out of the University of Colorado Museum
 of Natural History for the last 20 years, is a community engagement program that aims to foster a positive
