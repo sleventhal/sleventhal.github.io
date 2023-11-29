@@ -18,6 +18,7 @@ largely decoupled, with disparity outpacing diversity for much of  <i>Wilbertopo
 primarily driven by evolution of avicularian morphology, indicating that  <i>Wilbertopora</i>’s avicularia may have served an array of purposes 
 in different lineages.
 
-[Leventhal_et_al_bryozoan_studies_2022.pdf](https://github.com/sleventhal/sleventhal.github.io/files/12477791/Leventhal.et.al.Typeset.paper.final.pdf)
 
+
+[10.1201_9781003454915-10_chapterpdf.pdf](https://github.com/sleventhal/sleventhal.github.io/files/13505135/10.1201_9781003454915-10_chapterpdf.pdf)
 
