@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Sarah Leventhal, a postdoctoral fellow at the National Museum of Natural History. I am an invertebrate paleontologist interested in the evolution of colonial organisms, and I use cheilostome bryozoans as a study system to investigate the origination and proliferation of complex colony-level traits. Most specifically, I am interested in understanding how hierarchical levels of biological organization cooperate, and how this cooperation can culminate in division of labor and morphological polymorphism.
+Hi! I am Sarah Leventhal, a postdoctoral fellow of paleobiology at the Smithsonian Institution's National Museum of Natural History. I am an invertebrate paleontologist interested in the evolution of colonial organisms, and I use cheilostome bryozoans as a study system to investigate the origination and proliferation of complex colony-level traits. Most generally, I study how hierarchical levels of biological organization interact to produce novel morphologies and functions, and how these novel traits can affect macroevolutionary trajectories.
 
 I also have a broad interest in the use of informal science education as a teaching tool for school-age students. Since much of my research is museum-based, I have had the opportunity to work with some amazing programs that aim to teach children to love science in a positive, relaxed environment! I believe the disconnect between scientists and the broader public can be addressed by encouraging people to view science in a positive, empowering light.
 
 Below are some of my big topics of interest.
 
-## Complex trait evolution
+## Macroevolution of complex colony-level traits
 
 What role does heritable variation play in the evolution of group-level traits?
  
