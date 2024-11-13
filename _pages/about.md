@@ -39,7 +39,7 @@ Speaking more broadly, I want to understand how division of labor occurs as an e
 
 ## Informal education as science communication
 
-Can informal education programs improve scientific literacy?
+Can informal education programs improve public interest in science as a discipline?
 
 Scientific literacy is relatively low across the United States, despite the country's high level of educational attainment. While the causes of scientific illiteracy are mulitifaceted, part of this issue stems from a general public disinterest in science as a discipline. I am interested in understanding the role that informal science education programs may play in encouraging people, especially children, to view science as a discipline worthy of extracurricular interest.
 
