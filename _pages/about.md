@@ -47,7 +47,7 @@ For _Wilbertopora_, polymorphic morphologies appear to emerge as an expansion of
 Among _Wilbertopora_ species, different lineages have different morphologies for homologous polymorphs, indicating that different species were potentially exploring different 'fitness optima,' with their polymorphs changing 
 
 Read the papers here:
-[PNAS 2024](https://academic.oup.com/pnasnexus/article/3/11/pgae476/7830526)
+[PNAS Nexus 2024](https://academic.oup.com/pnasnexus/article/3/11/pgae476/7830526)
 [IBA 2022](https://www.researchgate.net/publication/250070809_Morphological_differentiation_of_avicularia_and_the_proliferation_of_species_in_mid-Cretaceous_Wilbertopora_Cheetham_1954_Bryozoa_Cheilostomata)
 
 
