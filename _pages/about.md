@@ -13,7 +13,8 @@ Hi! I'm Sarah Leventhal, a paleobiologist researching division of labor in colon
 
 This photo below is of a ~90 Million year old cheilostome bryozoan colony belonging to the genus _Wilbertopora_.
 
-! [USNMPAL 216143_37 annotated.tiff](https://github.com/user-attachments/files/24411673/USNMPAL.216143_37.annotated.tiff)
+![USNMPAL 216143_37 annotated](https://github.com/user-attachments/assets/6a5a6957-44b5-4522-857c-7ca5bac5f796)
+
 
 The three polymorphs here (labeled Av, Az, and Ov) perform different tasks. Az is a feeding zooid, responsible for acquiring food for the colony through suspension feeding. Av is a defensive zooid, equipped in life with a hinged appendage that can smack predatory epibionts crawling along the colony surface. Ov is a brooding structure, a composite zooid that houses the colony's embryos until they are ready to undergo metamorphosis and form a new colony. Fortunately, modern species express similar polymorph types to the ones expressed in this fossil, allowing for some level of functional inference from the fossil record.
 
