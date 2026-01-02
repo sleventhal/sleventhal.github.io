@@ -9,29 +9,45 @@ redirect_from:
 ---
 
 
-Hi! I'm Sarah Leventhal, a paleobiologist interested in the evolution of colonial animals. I use cheilostome bryozoans as a study system to investigate the origination and proliferation of complex colony-level traits, with a specific emphasis on division of labor.
+Hi! I'm Sarah Leventhal, a paleobiologist researching division of labor in colonial animals. Division of labor, most broadly, refers to specialization of function among members of a group. You can find examples of division of labor at all levels of biological organization, from the differentiation of organelles in eukaryotic cells to task specialization among members of a society. Most of my research focuses on a group of animals called bryozoans, also known as "moss animals," which have a prolific fossil record with over 15,000 named species. They have a stunning range of division of labor in their colonies, with clonal individuals (called zooids) expressing different morphologies and performing different functions. The different types of zooids within a colony are called polymorphs, and the calcified skeletons all zooids build reflect their differences, even in their fossilized remains.
 
-I'm currently a postdoctoral fellow at the Smithsonian Institution's National Museum of Natural History.
+This photo below is of a ~90 Million year old cheilostome bryozoan colony belonging to the genus _Wilbertopora_.
 
-## Macroevolution of complex colony-level traits
+[USNMPAL 216143_37 annotated.tiff](https://github.com/user-attachments/files/24410906/USNMPAL.216143_37.annotated.tiff)
 
-What role does heritable variation play in the evolution of group-level traits?
- 
-The evolution of group-level traits is difficult to study, especially on macroevolutionary timescales. Modular animals like bryozoans grow in clonal sessile colonies that are often calcified, allowing them to readily preserve after death. These features make them a good study system for investigating the evolution of group-level traits. I am interested in understanding the evolution of colony-level traits, both in emergent features like division of labor (more on that below) and aggregate traits like distributions of individual-level phenotypes in colonies.
+The three polymorphs here (labeled Av, Az, and Ov) perform different tasks. Az is a feeding zooid, responsible for acquiring food for the colony through suspension feeding. Av is a defensive zooid, equipped in life with a hinged appendage that can smack predatory epibionts crawling along the colony surface. Ov is a brooding structure, a composite zooid that houses the colony's embryos until they are ready to undergo metamorphosis and form a new colony. Fortunately, modern species express similar polymorph types to the ones expressed in this fossil, allowing for some level of functional inference from the fossil record.
 
-<img src="https://user-images.githubusercontent.com/79329199/204932897-dd846344-f533-48d8-a709-44002808024d.jpg" height=400 />
 
+I am currently an Abbott Postdoctoral Fellow at the National Museum of Natural History, where I research the effects of the end-Cretaceous extinction event (~66 million years ago) on the division of labor of bryozoans. In my current position, I also work to promote science communication through a variety of visitor-oriented programming for both adults and children. Find some more detail about my research and outreach program below.
+
+## Division of labor through mass extinction: harmful, helpful, neutral?
+
+The last major mass extinction event abruptly ended the world of non-avian dinosaurs, ammonoids, and rudist bivalve reefs. More than two-thirds of the world's genera disappeared at the global boundary marking the start of the Cenozoic. Bryozoans lost around a third of genera during this event (around 27% of species, assuming all of the species in each surviving genus actually crossed the boundary), which is definitely better than the average extinction intensity experienced across animals, but is still significantly elevated compared to background extinction rates ([~0.2 extinctions for every 10,000 species every 100 years, or about 2% of species every million years](https://www.nature.com/articles/nature09678)). So, no matter how frame the results, bryozoans were hit hard by the end-Cretaceous extinction event. I am currently testing whether certain colony traits are associated with different extinction outcomes through this interval.
+
+Was division of labor, reflected in preserved polymorphs, associated with genus extinction across the end-Cretaceous event? Division of labor increases colony longevity, generating long-lasting, large colonies that can outcompete their neighbors for space. However, most polymorphs are non-feeding and are heavily calcified, requiring sustenance from their feeding counterparts. Ocean acidification and primary productivity declines may have strained colonies with polymorphs that derived their fitness from spatial competition and predator deterrence, which would almost certainly be reduced during the die-off of the end-Cretaceous extinction event. These polymorphs may have been too developmentally entrenched to remove from colonies, creating a serious problem for colonies' energy budgets in the face of limited resources.
+
+Stay tuned for results!
 
 
 ## The evolutionary morphology of division of labor
 
-What processes shaped the wide array of forms and functions we see across organisms today?
+Ant colonies, siphonophores, and swirling spheres of _Volvox_ all exhibit striking morphological differentiation among colony members. But how did such differences emerge in deep time? Ancestrally, there may have been morphological variation expressed in monomorphic colonies that later became partitioned into polymorphs. Or morphological variation may have expanded, opening up formerly unavailable ranges of morphologies to be expressed by colony members.
 
-Division of labor appears as polymorphism Some colonial Bryozoans exhibit this feature, as do many other colonial animals (think wasps, bees, ants, and siphonophores). Due to bryozoans' high-resolution fossil record, it is possible to reconstruct the evolution of divergent body types in colonies. Such a reconstruction makes it possible to understand the evolutionary transitions leading up to complex differentiation in colonies, and, ultimately, will make it possible to understand how division of labor evolves.
+In bryozoans, the evolutionary emergence and proliferation of division of labor is recorded in their fossil record. Beginning around 100 million years ago, the first polymorphic bryozoan belonging to the cheilostome clade (the most diverse group of bryozoans) evolved on the outskirts of the Western Interior Seaway (modern day Texas and Oklahoma). This cheilostome bryozoan is called _Wilbertopora_ and it experienced a diversification event, forming 28 species through the end of the Cretaceous. I used three-dimensional reconstructions of colonies and SEM photographs to digitize polymorph morphologies in fossil colonies to understand how their polymorphic morphologies have changed over time. Here is an example of a _Wilbertopora_ colony:
 
-Here is an example of division of labor in a 100 million-year old colony. The round oval (an autozooid) serves as a feeding member of the colony, and the pointed oval (an avicularium) seems to play a defensive role. In extant colonies, these polymorphs serve defensive functions like snagging the limbs of arthropod predators. 
+<img width="422" height="372" alt="image" src="https://github.com/user-attachments/assets/434a2803-db0e-4374-aae4-86797bd7f352" />
+<img width="156" height="186" alt="image" src="https://github.com/user-attachments/assets/114e47ce-eeef-45a7-93d8-dc6b5cadb9d1" />
+<img width="369" height="370" alt="image" src="https://github.com/user-attachments/assets/3b3802ba-31e4-448e-9fcc-5ef75c13a620" />
 
-<img width="362" alt="Screen Shot 2022-11-30 at 6 29 36 PM" src="https://user-images.githubusercontent.com/79329199/204930140-cede2595-3eb3-4844-b95d-b9595acab680.png">
+For _Wilbertopora_, polymorphic morphologies appear to emerge as an expansion of the range of variation present in colonies. In other words, novel polymorphs expressed previously unrecognized morphologies, generating new morphologies that were operating under different selective pressures than their ancestral feeding counterparts.
+
+<img width="352" height="489" alt="image" src="https://github.com/user-attachments/assets/ed85b321-b31d-42a7-ab4e-a5a892159011" />
+
+Among _Wilbertopora_ species, different lineages have different morphologies for homologous polymorphs, indicating that different species were potentially exploring different 'fitness optima,' with their polymorphs changing 
+
+Read the papers here:
+[PNAS 2024](https://academic.oup.com/pnasnexus/article/3/11/pgae476/7830526)
+[IBA 2022](https://www.researchgate.net/publication/250070809_Morphological_differentiation_of_avicularia_and_the_proliferation_of_species_in_mid-Cretaceous_Wilbertopora_Cheetham_1954_Bryozoa_Cheilostomata)
 
 
 
@@ -39,6 +55,8 @@ Here is an example of division of labor in a 100 million-year old colony. The ro
 
 Can informal education programs improve public interest in science as a discipline?
 
-Scientific literacy is in crsis across the United States, despite the country's high level of educational attainment. I am interested in understanding the role that informal science education programs may play in encouraging people to view science as a discipline worthy of extracurricular interest.
+I have been working with the great people in the Office of Education, Outreach, and Visitor Experiences at NMNH to develop and deploy different engagement stations for museum guests! I am passionate about making science accessible to the people of my community across all ages.
+
+![IMG_1418](https://github.com/user-attachments/assets/8efcf8f2-eb24-43cf-8e10-64c90934a9e9)
 
 
